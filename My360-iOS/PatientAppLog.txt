@@ -1,0 +1,11 @@
+Patient app Log:
+=============
+
+RV - Latest code pull from origin 9/23/14 10:15
+---
+
+RV- Latedt code pull from PatientAsthma Repo 9/26/14 10:55  (from savio's code)
+---
+
+RV - added 2 new apps IPF and AAPAsthma to the merge code. 
+---

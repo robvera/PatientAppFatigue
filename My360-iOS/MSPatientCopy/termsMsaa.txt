@@ -1,0 +1,255 @@
+@Point of Care™
+ 
+Terms of Use
+Last updated: September 12, 2014
+
+PLEASE TAKE A MOMENT TO SCROLL DOWN AND READ THESE TERMS OF USE.
+ 
+
+At Point of Care, LLC (“@Point of Care,” “we,” “us,” or “ours”) owns a mobile application (the “App”). These Terms of Use state the terms and conditions under which you may use the App and the services that we make available via the App from time to time (the “Services”). Please read these Terms of Use carefully. “Subscriber,” “You” or “Your” refers to the person accessing or using the App and/or the Services. BY CLICKING THE “I ACCEPT” BUTTON AND COMPLETING THE REGISTRATION PROCESS (IF APPLICABLE), YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE LEGALLY BOUND BY THESE TERMS OF USE AND OUR PRIVACY POLICY (COLLECTIVELY, THE “AGREEMENT”) AND YOU certify that you are (i) at least 18 years old or older, (ii) a Subscriber, or a principal, partner, officer, or other authorized representative of the subscribing organization fully authorized to bind Subscriber to contractual obligations, (iii) authorized to provide Personal Data regarding Subscriber during registration and in connection with the Services, (iv) authorized to grant or deny access by third parties to the Subscriber Database of Subscriber, and (v) that all information and documentation submitted in connection with the Services is complete and correct in all respects. @Point of Care is hereby authorized to use such information as reasonably necessary during the course of providing the Services contemplated hereunder, and to share such information with its affiliates or as otherwise allowed by applicable law. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU ARE NOT GRANTED PERMISSION TO ACCESS OR OTHERWISE USE THE APP, THE CONTENT OR THE SERVICES. Unless otherwise stated herein, all defined terms shall have the meaning set forth in the Privacy Policy.
+THIS APP DOES NOT PROVIDE MEDICAL ADVICE. The App, the Content and the Services are provided for informational purposes only, and are not intended as a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on the App, the Content and the Services. If you think you may have a medical emergency, call your doctor or 911 immediately. @Point of Care does not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned on the App, the Content and the Services. Reliance on the App, the Content and the Services is solely at your own risk.
+
+Use of Personal Data.
+Your use of the App and/or the Services may involve the transmission of your personally identifiable information (the “Personal Data”) to us. Our policies with respect to the collection and use of Personal Data are governed according to our Privacy Policy (located at http://atpointofcare.com/privacy-policy) which is hereby incorporated by reference in its entirety.
+
+Registration.
+If you would like to use the App, you will need to register as a subscriber (“Subscriber”). During the registration process, you will provide us your email address (“E-mail Address”) and create a password (“Password”) for your account. Each E-mail Address and corresponding Password can only be used by one Subscriber. You are solely responsible for the confidentiality and use of your E-mail Address and Password, as well as for any use, misuse or communications entered through the App using one or more of them. You will promptly inform @Point of Care of any need to deactivate an E-mail Address or a Password. @Point of Care reserves the right to delete or change your E-mail Address or Password at any time and for any reason.
+You are using the Services at your own risk and you, along with your healthcare provider, are personally responsible for verifying its suitability for your needs.
+
+Services.
+@Point of Care will provide Subscriber with access to the Services through the App in accordance with the terms and conditions of this Agreement. @Point of Care will be responsible for providing the App, and Subscriber will be responsible for obtaining Internet connections and other third-party software and services necessary to access the App. Subscribers will have the right to (i) create individual accounts through the App (each, a “Subscriber Database”) for the Subscriber, (ii) provide Personal Data to their own Subscriber Database(s), (iii) use and modify Personal Data in their own Subscriber Database(s), and (iv) authorize certain third parties to provide, access, use and modify the Personal Data in their own Subscriber Databases. Such third parties may include healthcare providers. Subscribers who are healthcare providers may have access to a drug database that contains information for the drugs that are approved and available for prescription (“Drug Database”). Reliance on the information from the Drug Database is solely at your risk.
+
+@Point of Care Reservation of Rights.
+@Point of Care is under no obligation to accept any individual as a Subscriber to the Services, and may accept or reject any applicant in its sole and complete discretion.
+
+Aggregated and De-identified Personal Data.
+We may aggregate and analyze your Personal Data in aggregate form, which does not identify you personally. We may share this aggregated and de-identified Personal Data with third parties for commercial purposes. If, at some point in time, the Services and/or @Point of Care become subject to the Health Insurance Portability and Accountability Act of 1996 and regulations promulgated thereunder (collectively, “HIPAA”), we will comply with HIPAA and ensure that each of our third-party providers are also bound by HIPAA.
+
+Subscriber Database.
+Upon the earlier of the termination of this Agreement or a Subscriber’s written request, @Point of Care will remove the applicable Subscriber Database from the App and from there the Subscriber’s Personal Data shall no longer be available via the App.
+
+Fees.
+From time to time, @Point of Care may charge fees in connection with the App and various Services provided through the App. You will receive notice prior to implementation of any such fees. No fees will be charged without an agreement with you. Please note that certain Services will not be available to you if you choose to not pay the fees associated with such Services.
+
+License Grant.
+@Point of Care grants Subscriber a limited, non-exclusive, non-transferable, non-sublicensable license to download and install a copy of the App on mobile devices that you own or control and to run such copy of the App solely for your own personal use.
+
+Subscriber will not (and will not permit any third party to: (i) reverse engineer, decompile, disassemble, or otherwise attempt to discern the source code, underlying ideas, algorithms, file formats, or interface protocols of the App, the Content, the Services or any Subscriber Database; (ii) copy, modify, adapt or translate the App, the Content, the Services or any Subscriber Database, or otherwise make any use, resell, distribute or sublicense the App, the Content, the Services or any Subscriber Database except in connection with this Agreement; (iii) disclose and/or make the App, the Content, the Services or any Subscriber Database available on a “service bureau” basis; (iv) remove or modify any proprietary marking or restrictive legends placed on the App, the Content, the Services or any Subscriber Database; or (v) use the App, the Content, the Services or any Subscriber Database in violation of any applicable law or regulation.
+
+Subscriber retains all copyrights and other intellectual property rights in and to any Personal Data and other information Subscriber submits into Subscriber’s own Subscriber Database. Subscriber hereby grants us an irrevocable, non-exclusive, worldwide, royalty-free, sublicensable, transferable license to use, reproduce, distribute, publish the data in Subscriber’s own Subscriber Database and associated works, along with the right to excerpt, analyze, index, and create derivative works from the data in Subscriber Database as reasonably necessary for us to provide Subscriber with the Services and to provide healthcare providers with our Services.
+
+Intellectual Property Rights.
+You acknowledge that this App contains material such as software, text, graphics, images, sound recordings, audiovisual works, and other materials provided by or on behalf of @Point of Care (collectively, the “Content”). The Content may be owned by us or by third parties, and is protected by copyrights, trademarks, trade secrets, patents, or other proprietary rights, and that these worldwide rights are valid and protected in all forms, media, and technologies existing now and hereinafter developed. You also acknowledge that the Content is and shall remain the property of @Point of Care or its licensors. You agree to comply with all intellectual property laws and you shall not encumber any interest in, or assert any rights to, the Content. You may not modify, transmit, participate in the sale or transfer of, or create derivative works based on any Content, in whole or in part. However, you may print a single copy of the Content for your own personal use provided that you maintain any notices contained in the Content, such as all copyright notices, trademark legends, or other proprietary rights notices.
+
+Trademarks.
+@Point of Care (stylized with design) and @Point of Care (standard characters) are trademarks and service marks of @Point of Care (the “@Point of Care Trademarks”). Other @Point of Care product and service names and logos used and displayed on this App may be trademarks or service marks of their respective owners who may or may not endorse or be affiliated with or connected to @Point of Care. Nothing on this App should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the @Point of Care Trademarks displayed on this App, without our prior written permission in each instance. All goodwill generated from the use of the @Point of Care Trademarks will inure to our benefit.
+
+Community Guidelines.
+By accessing and/or using the App and/or the Services, you hereby agree that:
+
+You will not use the App and/or the Services for any unlawful purpose;
+You will not upload, post, e-mail, transmit, or otherwise make available any content that:
+infringes any copyright, trademark, right of publicity, or other proprietary rights of any person or entity; or
+is threatening, tortious, defamatory, libelous, indecent, obscene, pornographic, sexually explicit, invasive of another’s privacy, or promotes extreme violence or cruelty to animals, or contains hate speech (i.e., speech that attacks or demeans a group based on race or ethnic origin, religion, disability, gender, age, veteran status, and/or sexual orientation/gender identity; or
+discloses any sensitive information about another person, including that person’s e-mail address, postal address, phone number, credit card information, or any similar information.
+You will not “stalk” or otherwise harass another;
+You will not spam or use the App and/or Services to engage in any commercial activities, including, without limitation, raising money; advertising or promoting a product, service, website, or company; or engaging in any pyramid or other multi-tiered marketing scheme;
+You will not impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity;
+You will not interfere with or attempt to interrupt the proper operation of the App and/or Services through the use of any virus, device, information collection or transmission mechanism, software or routine, or access or attempt to gain access to any data, files, or passwords related to the App and/or the Services through hacking, password or data mining, or any other means; and
+Let us know about inappropriate content.  If you find something that violates our community guidelines, let us know, and we’ll review it.
+ 
+
+Unsolicited Information.
+By submitting any unsolicited information and materials, including comments, ideas, questions, designs, and other similar communications (collectively, “Unsolicited Information”) to @Point of Care through the App, you agree to be bound by the following terms and conditions. If you do not agree with these terms and conditions, you should not provide any Unsolicited Information through the App. All Unsolicited Information will be considered NON-CONFIDENTIAL and NON-PROPRIETARY. @Point of Care, or any of its affiliates, may use such communication or material for any purpose whatsoever, including, but not limited to, reproduction, disclosure, transmission, publication, broadcast, and further posting. Further, @Point of Care and its affiliates are free to use any ideas, concepts, know-how, or techniques contained in any communication or material you send to the site for any purpose whatsoever, including, but not limited to, developing, manufacturing, and marketing products. By submitting any Unsolicited Information, you are granting @Point of Care a perpetual, royalty-free and irrevocable right and license to use, reproduce, modify, adapt, publish, translate, distribute, transmit, publicly display, publicly perform, sublicense, create derivative works from, transfer and sell such Unsolicited Information and to use your name and other identifying information in connection with such Unsolicited Information. This section shall not apply to any submissions you provide pursuant to an agreement with us.
+
+Links to Other Websites.
+This App may periodically provide links to third-party websites (“Third-Party Sites”) as well as other websites operated by @Point of Care (“Other @Point of Care Sites”). This Agreement governs only this App and not any Third-Party Sites or Other @Point of Care Sites. Our decision to link to a Third-Party Site is not an endorsement of the content or services in that linked Third-Party Site. If you decide to access linked Third-Party Sites, you do so at your own risk. You should direct any concerns regarding any Third-Party Sites to the administrator of the applicable Third-Party App. We also prohibit the use of any links to the App from any other websites unless establishment of such a link is approved in advance by us in writing. You may not frame any elements of this App with any other website.
+
+Advertisements on This App.
+@Point of Care, in its sole discretion, may post the advertisements of third parties on the App. The display of advertisements on the App is not intended as and does not in any manner constitute a recommendation, endorsement, or approval of the advertiser or its services by @Point of Care. Your correspondence or any other dealings with advertisers found on this App are solely between you and such advertiser, and we are not responsible or liable for the statements or conduct of any third party, nor for any loss or damage incurred as a result of any such dealings or as the result of the presence of such advertisers on this App.
+
+Security of the App.
+Actual or attempted unauthorized use of the App, the Content or the Services may result in criminal and/or civil prosecution. @Point of Care reserves the right to view, monitor, and record activity on the App without notice or permission from you. Any information obtained by monitoring, reviewing, or recording is subject to review by law enforcement organizations in connection with investigation or prosecution of possible illegal activity on the App. @Point of Care will also comply with all court orders as well as all law enforcement and regulatory inquiries involving requests for such information.
+
+No Responsibility for Connectivity.
+You agree that you are responsible for the means you use to access the App and all costs associated therewith. You understand that we are not responsible for the performance of your hardware, software, the Internet, your Internet service provider and other third parties involved in connecting you to the App.
+
+YOUR SOLE AND EXCLUSIVE REMEDY FOR DISSATISFACTION WITH THIS APP IS TO STOP USING THIS APP.
+
+Accessing and Downloading the App from iTunes.
+The following terms apply to any Apple App. These terms are in addition to all other terms contained in these Terms of Use:
+
+You acknowledge and agree that (i) these Terms of Use are concluded between you and @Point of Care only, and not Apple, and (ii) @Point of Care, not Apple, is solely responsible for the Apple App and content thereof. Your use of the Apple App must comply with the App Store Terms of Service.
+You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Apple App.
+In the event of any failure of the Apple App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Apple App to you and to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Apple App. As between @Point of Care and Apple, any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be the sole responsibility of @Point of Care.
+You acknowledge that, as between @Point of Care and Apple, Apple is not responsible for addressing any claims you have or any claims of any third party relating to the Apple App or your possession and use of the Apple App, including, but not limited to: (i) product liability claims; (ii) any claim that the Apple App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.
+You acknowledge that, in the event of any third-party claim that the Apple App or your possession and use of that Apple App infringes that third party’s intellectual property rights, as between @Point of Care and Apple, @Point of Care, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim to the extent required by these Terms of Use.
+You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
+You acknowledge and agree that Apple, and Apple’s subsidiaries, are third-party beneficiaries of these Terms of Use as related to your license of the Apple App, and that, upon your acceptance of the terms and conditions of these Terms of Use, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms of Use as related to your license of the Apple App against you as a third-party beneficiary thereof.
+Without limiting any other terms of these Terms of Use, you must comply with all applicable third-party terms of agreement when using the Apple App.
+DISCLAIMER OF WARRANTIES.
+NONE OF @Point of Care, ITS AFFILIATES, SUBSIDIARIES, OR ITS OR THEIR OFFICERS, DIRECTORS, EMPLOYEES OR AGENTS (COLLECTIVELY THE “@Point of Care PARTIES”) ENDORSE ANY SUBSCRIBER, HEALTHCARE PROVIDER OR OTHER THIRD PARTY, INCLUDING, WITHOUT LIMITATION, ANY OPINION, RECOMMENDATION OR ADVICE EXPRESSED BY THE HEALTHCARE PROVIDER OR THIRD PARTY. YOU ACKNOWLEDGE THAT THE SERVICES MERELY ACT AS A VENUE THAT ALLOWS SUBSCRIBERS AND HEALTHCARE PROVIDERS AND THIRD PARTIES TO COMMUNICATE WITH EACH OTHER. NONE OF THE @Point of Care PARTIES IS A PARTY TO, OR HAS ANY RESPONSIBILITY OR LIABILITY WITH RESPECT TO, ANY TRANSACTION, COMMUNICATION OR INTERACTION BETWEEN SUBSCRIBER, HEALTHCARE PROVIDERS OR THIRD PARTIES OR FOR ANY RESULTS CAUSED BY USING THE APP OR THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY DEATH, BODILY INJURY OR HEALTH PROBLEMS SUBSCRIBER MAY SUFFER. WE EXPRESSLY DISCLAIM, AND SUBSCRIBER WAIVES, ANY AND ALL LIABILITY IN CONNECTION WITH THE FOREGOING.
+YOU ACKNOWLEDGE AND AGREE THAT THE APP, THE CONTENT AND THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. NONE OF @Point of Care PARTIES GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, RELIABILITY, SUITABILITY OR USEFULNESS OF ANY PORTION OF THE APP OR THE SERVICES. NONE OF @Point of Care PARTIES WARRANT THAT THIS APP OR THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT THIS APP, THE SERVICES, ITS SERVER OR ANY FILES AVAILABLE FOR DOWNLOADING THROUGH THIS APP ARE FREE OF COMPUTER VIRUSES OR OTHER HARMFUL ELEMENTS. YOU EXPRESSLY AGREE THAT THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THIS APP AND THE SERVICES, AND THE ACCURACY, TIMELINESS OR COMPLETENESS OF THE CONTENT, SERVICES AND THE APP IS ASSUMED SOLELY BY YOU. NONE OF @Point of Care PARTIES MAKE ANY, AND HEREBY SPECIFICALLY DISCLAIM ANY AND ALL, REPRESENTATIONS, ENDORSEMENTS, GUARANTEES, AND WARRANTIES, EXPRESS OR IMPLIED, REGARDING THIS APP AND THE SERVICES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. Without limiting the foregoing, @Point of Care, its licensors, and its suppliers make no representations or warranties regarding the satisfaction of any government regulations requiring disclosure of information on prescription drug products or the approval or compliance of any software tools with regard to the Content contained on the App.
+
+Limitation of Liability.
+UNDER NO CIRCUMSTANCES WILL ANY OF @Point of Care PARTIES BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY YOUR RELIANCE ON INFORMATION OBTAINED THROUGH THIS APP. IT IS YOUR RESPONSIBILITY TO EVALUATE THE ACCURACY, COMPLETENESS, OR USEFULNESS OF THIS APP. IN NO EVENT SHALL ANY OF @Point of Care PARTIES BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THE APP OR THIS AGREEMENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR NEGLIGENCE, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES, IN SUCH JURISDICTIONS @Point of Care PARTIES’ LIABILITY IS LIMITED TO THE GREATEST EXTENT PERMITTED BY LAW.
+
+Indemnification.
+You agree to defend, indemnify, and hold @Point of Care Parties harmless from and against any claims, actions, or demands, including, without limitation, reasonable legal and accounting fees, arising or resulting from: (i) your breach of this Agreement; (ii) your access to, use, or misuse of the App, Content, or the Services; and (iii) your violation of any third-party right, including, without limitation, any copyright, trademark, property, or privacy right.
+
+Termination.
+We may terminate this Agreement and your access to all or any part of the App, the Content or the Services at any time and for any reason without prior notice or liability. We reserve the right to change, suspend, or discontinue all or any part of the App, the Content or the Services at any time without prior notice or liability.
+
+Copyright Complaints.
+If you believe this App contains any content that infringes your copyright, please contact our Copyright Agent, as detailed below, with the following information:
+
+An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+A description of the copyrighted work that you claim has been infringed;
+A description of where the material that you claim is infringing is located on the App;
+Your address, telephone number and email address;
+A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or duly authorized to act on the copyright owner’s behalf.
+
+Copyright Agent:
+At Point of Care, LLC
+290 W. Mt. Pleasant Avenue
+Suite 2350
+Livingston, NJ 07039
+973.890.8988
+
+Miscellaneous.
+In the event that any portion of this Agreement is held to be invalid or unenforceable, then such portion shall be construed in accordance with the applicable law as nearly as possible to reflect the original intentions of the parties, and the remainder of this Agreement shall remain in full force and effect. The sections of this Agreement entitled Limitation of Liability, Indemnification, and Miscellaneous shall survive the termination of this Agreement. The paragraph headings herein are provided only for reference and shall have no effect on the construction or interpretation of this Agreement. You expressly absolve and release @Point of Care Parties from any claim of harm resulting from a cause beyond their control, including, but not limited to, failure of electronic or mechanical equipment or communication lines, telephone or other interconnect problems, computer viruses, unauthorized access, theft, operator errors, severe weather, earthquakes, or natural disasters, strikes or other labor problems, wars, terrorist activities or governmental restrictions. You may not assign this Agreement. No waiver shall be effective unless in writing. Neither the course of conduct between parties nor trade practice shall act to modify any provision of this Agreement. This Agreement and any other agreements between the parties entered into through this site shall be governed by and construed in accordance with the laws of the State of New Jersey. Except for proceedings commenced by @Point of Care to protect its intellectual property or confidential information which may be brought in any court of competent jurisdiction, the parties mutually agree that any and all disputes arising hereunder shall be resolved exclusively by state or federal courts located in the State of New Jersey. This Agreement contains the entire agreement of the parties concerning this App and supersedes all existing agreements and all other oral, written or other communication between the parties concerning its subject matter. @Point of Care will comply with all applicable laws. You shall comply with all laws, rules and regulations which are now or hereinafter promulgated by any government authority or agency which govern or apply to the operation and use of the App. Without limiting the generality of the foregoing, you expressly agree to comply with such restrictions and not to export or re-export any of the Content to countries or persons prohibited under the export control laws of the United States. You are prohibited from any use of the App that would constitute an illegal offense, give rise to liability or otherwise violate any applicable local, state, national or international law or regulation. All rights not expressly granted herein are reserved by @Point of Care.
+Thank you for your cooperation. We hope you find the @Point of Care App helpful and convenient to use. Questions or comments regarding this App, including any reports of non-functioning links, should be submitted using our email address at info@atpointofcare.com  or via U.S. mail to
+
+At Point of Care, LLC
+290 W. Mt. Pleasant Avenue
+Suite 2350
+Livingston, NJ 07039
+973.890.8988
+
+We try to answer every email in a timely manner but are not always able to do so.
+
+You can access these documents at any time in the Settings/Legal section of this App.
+
+-----------------------------------------
+
+MSAA Terms & Conditions
+
+Web Terms and Conditions
+
+The Multiple Sclerosis Association of America (MSAA) is a nonprofit organization whose mission is to improve lives today for the entire MS community through vital services and support. The goal of this website, www.mymsaa.org (the "Site" or "Website"), is to provide a source of information to our clients, their care partners, and the general public on MS. The information that is found on the Site is based on professional advice, published research, and expert opinion, but does not represent therapeutic recommendation or prescription. MSAA strives to provide useful, up-to-date information on matters of concern to MS patients and their families. This material is intended for general informational purposes only, and it does not constitute medical advice. You should not use the information presented as a means of diagnosis or for determining treatment. For diagnosis and treatment options, you are urged to consult your physician. Those affiliated with the Site and MSAA cannot be held responsible for any unintentional errors in the writing of this website or changes in information that may occur, possibly affecting certain details of an explanation, assumption, or treatment. MSAA does not endorse nor recommend products, services or items that appear on this website.
+
+The entire contents and design of the Site are protected under U.S. and international copyright laws. The Site is owned and operated by MSAA and unless specifically stated or otherwise indicated, all content, including, but not limited to, trademarks, logos, trade names, text, data, messages, pictures, images, video, audio, graphics, buttons, data compilations, icons, code, links, or other electronic files or things that can be uploaded, downloaded, copied from, or posted on the Internet (referred to hereafter as "Content") on the Site is the property of MSAA and protected by intellectual property laws.
+
+The Site is for your own personal noncommercial use. You may download materials for personal use only. You may not modify, distribute, transmit, display, or publish any materials contained on the Site without the prior written permission of MSAA or the appropriate copyright owner. Please refer to the copyright notice for more information.
+
+Content owned by third parties may also appear on the Site, and you should respect those property rights as well. Content owned by third parties available on the Site is used by MSAA pursuant to a license from a third party. Your use of this Content must comply with the terms of that license.
+MSAA does not represent that the Content provided on the Site is completely accurate or error-free, and therefore any reliance on the Content is done so at your own risk. Any use of the Site or its Content other than for the uses allowed in these Terms of Use, including but not limited to other non-private, commercial purposes, is prohibited.
+
+Any use of, or posting any Content on, the Site that could destroy, damage or impair any portion of the Site or any computers, systems, hardware or software used by us or other visitors to the Site, is prohibited.
+
+Certain portions of the Site are password protected, and may only be accessed by authorized users with a valid login and password. Any attempt to gain unauthorized access to the Site or its Content, or any computers, systems, hardware or software used by us or other visitors to the Site, through hacking or other similar means, is prohibited.
+The Site is not intended for or marketed to children, but is intended for adults 18 years of age or older. By using or accessing the Site, you represent that you are 18 years of age or older.
+Do not attempt to hack into, or bypass any security features of, the Site or any MSAA computers, servers, systems, hardware or software.
+
+The Site is funded through various grants and donations. MSAA does not have or accept any paid links or advertising on the Site, mymsaa.org.
+
+Data Use 
+
+We collect information on you only if you volunteer it. There are several ways you may volunteer information on the Site. These include completing a survey, sending an email inquiry to us, contributing online, or registering for or contributing to a participant in an event online. The information provided is collected and used to provide you with information about our programs and services available to you through MSAA. We generally respond to your request via postal service mail, email, or telephone depending on your request with our resources. 
+
+Sometimes we will use the information that you volunteer on several instances: 
+
+•  Mailings with information about multiple sclerosis and MSAA‘s programs and events 
+•  Mailings to invite you to join MSAA or to help MSAA fulfill its mission 
+•  Telephone contact to invite you to help MSAA achieve its mission 
+•  Email contact to respond to your questions, comments, or suggestions 
+•  Email contact to alert you to multiple sclerosis news updates and programs, as well as invitations to join MSAA or to help MSAA fulfill its mission. 
+
+Acceptance of These Terms 
+
+By using our Website, you consent to the collection and use of this information by MSAA. If we decide to change these Terms of Use or the privacy policy therein, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+MSAA Disclaimer
+
+This app is designed to give information on various medical conditions, treatments, and procedures for your personal knowledge and to help you be a more informed consumer of medical and health services. It is not intended to be complete or exhaustive, nor is it a substitute for the advice of your physician. You should seek medical care promptly for any specific medical condition or problem you may have. Under no circumstances should medication of any kind be administrated without first checking with your physician. 
+
+All efforts have been made to ensure the accuracy of the information contained in this app as of the date published. @Point of Care and the Multiple Sclerosis Association of America (MSAA) expressly disclaim responsibility for any adverse effects arising from the use or application of the information contained herein. 
+
+The MSAA app was developed by the Multiple Sclerosis Association of America in connection with @Point of Care and is intended for use by individuals with MS and their care partners. Upon your agreement to this disclaimer, MSAA will collect and store your name and email address only, and will from time to time send you information about MSAA, its programs, educational resources, and surveys or focus groups that may be of interest to you. MSAA will not share your information with third-party advertisers. Your personal heath data and physician information will not be shared with MSAA but rather will be stored and used by @Point of Care solely in connection with this app. To view MSAA's web terms of services in full, please go to http://mymsaa.org/privacy/.
+
+Disclaimer about Reminders/Notifications:
+
+Please note that MSAA’s My MS Manager app [or “this app”] does not alert users of urgent healthcare matters, such as specifically when to take a medication or go to an appointment. While features of this app may include reminders for items such as new educational materials waiting to be read and daily reminders to document medications taken, this feature should not be used for important actions required as part of one’s healthcare and treatment plan.
+
+-----------------------------------------
+
+@Point of Care™
+
+Privacy Policy
+
+Last updated: September 12, 2014
+
+ 
+At Point of Care, LLC (“@Point of Care,” “we,” “us,” or “ours”) provides this privacy policy (“Privacy Policy”) because we know that you care about how your information is collected, used, shared and retained. This Privacy Policy applies only to information collected when you use our mobile application (the “App”) or use the services that we make available via the App from time to time (the “Services”).
+
+By accessing and using our App and/or our Services, you accept the terms of this Privacy Policy.
+
+The Information We Collect. @Point of Care collects the following types of information via the App directly and indirectly through our third-party service providers (“Service Providers”).
+
+Personal Information. Personal Information means any information that may be used to identify a natural person. We do not collect any Personal Information from you unless you voluntarily provide it to us. When you sign up to use the App, you will be asked to provide us with certain Personal Information. Personal Information for purposes of this Privacy Policy will not include data in the subscriber database.
+
+Non-Personal Information. We may collect your IP address, Internet service provider, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, sections of the App visited, number of links you click while on the App, search terms, operating system, App traffic and related statistics, keywords, geolocational information, and/or other data.
+
+Cookies and Other Tracking Technologies. When you use the App, cookies or other tracking technologies may be placed on your mobile devices. A cookie is a small amount of information that an App server sends to your browser that stores Non-Personal Information about your account, preferences and use of the App and Services. Cookies allow us to recognize you when you return to the App and track and target your interests in order to provide a customized experience. They also help us to detect certain kinds of fraud. We use cookies to store preferences, record session information, record user-specific information on what pages are accessed or visited, alert you to new areas of the App, or customize App content, services and advertisements based on browser type or other information that the tracking technologies provide. “Session” cookies are temporary cookies used for various reasons, such as managing page views and your shopping cart. Typically, your browser will erase session cookies once you exit the browser. “Persistent” cookies are more permanent cookies that are stored on your mobile device after you exit the browser. Persistent cookies allow us to retrieve certain information that you have previously provided to us (for example, your user ID if you ask to be remembered). The App may use both session and persistent cookies.
+
+The App may also use “tracer tags,” which are tiny graphic images placed on App pages or in our emails that allow us to determine whether you have performed certain actions. When you access these pages or open email messages, the tags generate a notice of that action to us or our Service Providers. These tools allow us to measure response to our communications and improve our web pages and promotions.
+
+You may manage, block or delete cookies and other tracking technologies by adjusting your mobile devices security and privacy settings but, if you do so, you may not be able to use particular features of the App or the Services.
+
+In order to use the App, we may, with your prior permission, collect geolocational information from your mobile device, your wireless carrier, or certain third-party service providers (“Geolocational Information”). Collection of such Geolocational Information occurs only when the App is running on your mobile device. You may decline to allow us to collect such Geolocational Information, in which case we will not be able to provide certain services to you. Because your Geolocational Information is subject to abuse by others, please be sure to manage your mobile device and privacy preferences on the App on an ongoing basis.
+
+How We Use Your Information. We may use your Personal Information in a manner that is consistent with this Privacy Policy. If you provide Personal Information for a certain reason, we may use such Personal Information in connection with the reason it was provided. For instance, we may use Personal Information to administer, improve and provide access to the App and the Services; respond to inquiries; or to communicate with you by email, telephone or regular mail regarding news updates, special promotional offers, our products and services, or other information which may be of interest to you. If you later wish to opt out of receiving such promotional communications from us at any time, simply follow the “Opt-Out” instructions.
+
+Aggregated Personal Information. We may analyze your Personal Information in aggregate form, which does not identify you personally. We may share this aggregate data with our affiliates, agents, advertisers, manufacturers and business partners. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners and to other third parties for other lawful purposes.
+
+Sharing Your Information.  @Point of Care may share your Personal Information and Non-Personal Information with third parties without notice to you under certain circumstances including:
+
+Service Providers. When we engage a Service Provider to perform certain business-related functions, we only provide them with the information that they need to perform their specific function. We may also share your information with any of our parent companies, subsidiaries, or other companies under common control with us.
+Legal Requirements. We may disclose your information if required to do so by law, or in the good faith belief that such action or disclosure is necessary or appropriate to (i) operate the App, (ii) comply with any legal obligation, report unlawful activity, cooperate with law enforcement, or protect against legal liability, (iii) protect and defend our rights, property, personnel, suppliers, sponsors, agents or licensors, or (iv) protect the personal safety of users of the App or the public.
+Business Transfers. We may share your information with business partners, or buy or sell businesses or assets. In the event of a corporate sale, asset sale, merger, reorganization, dissolution or similar event, Personal Information and Non-Personal Information may be part of the assets that are transferred.
+Aggregated Information. We may aggregate Personal Information and Non-Personal Information and provide it to our existing or potential business partners, sponsors, advertisers or other third parties, in response to a government request, or to other third parties for lawful purposes.
+@Point of Care may disclose Personal Information to third party marketers (who may combine such Personal Information with their own records, and records available from other sources), for their own direct marketing purposes, and the direct marketing purposes of other third party marketers. If you wish to opt-out of sharing your Personal Information with third party marketers for their own and third party direct marketing purposes, please send an email with your name and address to optout@atpointofcare.com.
+Advertising. @Point of Care may, directly or indirectly through Service Providers, serve personalized advertisements when you use the App. @Point of Care and Service Providers may use Personal Information and Non-Personal Information collected during your use of the App to select advertisements, perform, or have performed, cookie synchs, and otherwise combine and compare your information with other databases for @Point of Care’s commercial purposes. You may opt out of the tailoring of advertising based on information we collect. To learn more about the use of this information, or to choose not to have this information used by our third-party advertising partners by opting out, please visit the Network Advertising Initiative by clicking http://www.networkadvertising.org/managing/opt_out.asp
+
+Email Opt-Out. @Point of Care offers you control over your privacy preferences regarding email. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed. You may opt out of receiving promotional emails from us when registering for an account, by unchecking the box that asks whether you would like to receive email updates about our new features, services and special offers.
+
+You may unsubscribe from receiving promotional e-mails of certain types (or a company wide unsubscribe) at any time by using the Unsubscribe page on the Site. Click here to unsubscribe now unsubscribe@atpointofcare.com. Please pay careful attention to the various options for unsubscribing from our promotional e-mails. You may have the option to unsubscribe from one or more special interest e-mail lists or unsubscribe from all promotional e-mails from us.
+When you receive a promotional e-mail from @Point of Care, it will contain a link that allows you to unsubscribe. If you decide to use this opt-out link, you will no longer receive special offers, valuable coupons, new product introductions and informational health and wellness newsletters from @Point of Care; however, you will continue to receive non-promotional e-mails from us, such as order confirmations.
+Security. @Point of Care takes reasonable precautions to safeguard your Personal Information against unauthorized access or disclosure including Secure Sockets Layer (SSL) encryption. Unfortunately, no data transmission over the Internet or stored on a server can be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any information you disclose or transmit to us online, and @Point of Care is not responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+
+Accessing and Correcting Personal Information. You can access and correct your Personal Information by logging into your account and accessing the Settings section of the App. If you wish to cancel your account, please send us an email at cancel@atpointofcare.com. We may retain your Personal Information and Non-Personal Information indefinitely after termination of your account for use in compliance with this Privacy Policy.
+
+Children. The App is not intended for use by children under the age of 13. @Point of Care does not knowingly collect or use any Personal Information from such children. If you are under the age of 13, do not submit any information to this App. If we learn that we collected Personal Information from children under the age of 13, we will take steps to delete that information as soon as possible.
+
+Changes to Privacy Policy. @Point of Care may, in its sole discretion, change this Privacy Policy from time to time without prior notice. We will notify you of any material changes to this Privacy Policy by changing the “Last Updated” date at the top of this Privacy Policy. If you use the App or use the Services after a change to this Privacy Policy is posted on the App, you will be bound by such change. Please refer back to this Privacy Policy on a regular basis. If you object to any of the terms in a revised Privacy Policy, you have the right to cease using the App and the Services. If you have questions about this Privacy Policy, or believe that @Point of Care has acted inconsistently with this Privacy Policy, please Contact Us.
+
+Privacy Practices of Third Parties. The App may contain links to third-party websites, products, and services. These third-party websites may place cookies or other tracking technologies on your mobile device. Information collected by these third-party websites is governed by their privacy practices and is not subject to this Privacy Policy. We are not responsible for how these third-party websites collect, use, disclose, distribute, or maintain Personal and Non-Personal Information. If you visit a third-party website linked from the App, you do so at your own risk. We encourage you to learn about the privacy practices of those third parties prior to providing them with any information or taking advantage of an offer or promotion. @Point of Care expressly disclaims any and all liability for the actions of third parties, including, but without limitation to, actions relating to the use and/or disclosure of Personal Information by third parties.
+
+Governing Law. This Privacy Policy and the privacy practices of @Point of Care will be subject exclusively to the laws of the State of New Jersey, United States.
+
+Important Notices to Non-U.S. Residents. The App and the Services are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By providing us with any information through the App, or the Services, you consent to this transfer.
+
+Contact Us. If you have any questions regarding this Privacy Policy or our privacy practices, you may email us at: info@atpointofcare.com with “PRIVACY POLICY” in the subject line, or send us a letter addressed to:
+
+At Point of Care, LLC
+290 W. Mt. Pleasant Avenue
+Suite 2350
+Livingston, NJ 07039
+973.890.8988
+
+You can access these documents at any time in the Settings/Legal section of this App.
+
+
+
+
